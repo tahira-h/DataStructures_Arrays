@@ -3,7 +3,7 @@
 ## Instructions: 
 
 
-###Data Structures
+### Data Structures
 
 1) Write a program to sum all the values of a given Array in Java.
 
