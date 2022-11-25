@@ -8,6 +8,7 @@
 1) Write a program to sum all the values of a given Array in Java.
 
 2) What is the output?
+          
           double[ ] exampleArray = {1,5,6,5,4,1};
 
           double maximum = examplesArray[0];
